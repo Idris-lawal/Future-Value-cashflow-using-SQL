@@ -67,5 +67,5 @@ This SQL stored procedure calculates the **Future Value (FV)** of a series of ca
 If you'd like users to download the file, link to the raw version of the file:
 
 ```markdown
-[Download the Future Value Calculation Script](https://raw.githubusercontent.com/your-username/your-repo-name/main/future_value_proc.sql)
+[Download the Future Value Calculation Script](CashflowFV scripts.sql)
 
