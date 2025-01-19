@@ -63,8 +63,8 @@ This SQL stored procedure calculates the **Future Value (FV)** of a series of ca
 
 ---
 
-### **Link to the scripts**
-If you'd like users to download the file, link to the raw version of the file:
+### **PROCDURESFOR FAIR VALUE**
+Below is the script for procedure
 
 ```sql
     Create PROCEDURE CalculateFutureValue
